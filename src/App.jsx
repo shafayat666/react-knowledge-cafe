@@ -1,11 +1,13 @@
 import './App.css'
-import Header from './components/Header/Header'
+import Blogs from './components/Header/Blogs/Blogs'
+import Header from './components/Header/Header/Header'
 
 function App() {
   
   return (
     <>
       <Header></Header>
+      <Blogs></Blogs>
     </>
   )
 }

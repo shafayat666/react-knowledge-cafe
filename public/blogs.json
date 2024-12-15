@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_image": "https://images.unsplash.com/photo-1556761175-4b46a572b786",
+    "title": "Exploring the Wonders of the Universe",
+    "author_image": "https://randomuser.me/api/portraits/men/45.jpg",
+    "author": "John Doe",
+    "posted_date": "2024-12-11",
+    "reading_time": 7,
+    "hashtags": ["#space", "#astronomy", "#science"]
+  },
+  {
+    "id": 2,
+    "cover_image": "https://images.unsplash.com/photo-1528744598421-b7db9dc48c14",
+    "title": "The Art of Minimalist Living",
+    "author_image": "https://randomuser.me/api/portraits/women/52.jpg",
+    "author": "Jane Smith",
+    "posted_date": "2024-12-05",
+    "reading_time": 5,
+    "hashtags": ["#minimalism", "#lifestyle", "#simplicity"]
+  },
+  {
+    "id": 3,
+    "cover_image": "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+    "title": "10 Tips for Better Work-Life Balance",
+    "author_image": "https://randomuser.me/api/portraits/men/33.jpg",
+    "author": "Michael Brown",
+    "posted_date": "2024-11-28",
+    "reading_time": 6,
+    "hashtags": ["#productivity", "#selfcare", "#balance"]
+  },
+  {
+    "id": 4,
+    "cover_image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "title": "A Guide to Capturing Stunning Landscapes",
+    "author_image": "https://randomuser.me/api/portraits/women/25.jpg",
+    "author": "Emily White",
+    "posted_date": "2024-12-03",
+    "reading_time": 8,
+    "hashtags": ["#photography", "#nature", "#travel"]
+  },
+  {
+    "id": 5,
+    "cover_image": "https://images.unsplash.com/photo-1497493292307-31c376b6e479",
+    "title": "Understanding the Basics of Blockchain",
+    "author_image": "https://randomuser.me/api/portraits/men/19.jpg",
+    "author": "Alex Johnson",
+    "posted_date": "2024-12-09",
+    "reading_time": 10,
+    "hashtags": ["#technology", "#blockchain", "#crypto"]
+  }
+]
